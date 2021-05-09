@@ -1,4 +1,4 @@
-### SUP!? 👋
+ 👋
 
 I am a senior software developer with over two decades of fullstack experience, expert
 frontend skills and a degree in visual communication. I am able to rapidly develop sophisticated
