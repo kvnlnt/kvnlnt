@@ -6,4 +6,4 @@ applications that are as beautiful on the inside as they are on the outside. App
 - ⏰ I’m currently working on world domination at [coder](http://coder.com)
 - 👀 I’m currently studying State Machines
 - 🎈 I'm currently experimenting with Frontend-end architectures
-- 👷 I’m looking to collaborate on [feds](http://github.com/kvnlnt/feds), [feno](http://github.com/kvnlnt/feno) and [fest](http://github.com/kvnlnt/fest)
+- 👷 I’m looking to collaborate on [feds](http://github.com/kvnlnt/feds), [feno](http://github.com/kvnlnt/feno) and [fema](http://github.com/kvnlnt/fema)
