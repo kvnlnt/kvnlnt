@@ -5,4 +5,4 @@ applications that are as beautiful on the inside as they are on the outside. App
 
 - ⏰ I’m currently working on making private equity real estate accessible to all investors at [concreit](http://concreit.com)
 - 🎈 I'm currently experimenting with Frontend-end architectures
-- 👷 I’m looking to collaborate on [oem](http://github.com/kvnlnt/oem)
+- 🍩 I’m looking to collaborate on [oem](http://github.com/kvnlnt/oem)
